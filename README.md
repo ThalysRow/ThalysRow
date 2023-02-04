@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Front-end! 🧑🏻‍💻
 - ⚡ Fun fact: Love for creating ❤️
 - 😄 Pronouns: Him/His
-- 🤓 some of my studies 👇🏻
+- 🤓 Some of my studies 👇🏻
 
 
 
