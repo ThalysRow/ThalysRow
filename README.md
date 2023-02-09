@@ -1,6 +1,6 @@
 ## Hello, everyone! 🖖🏻
 
-- 🌱 Atualmente estou estudando Front-end! 🧑🏻‍💻
+- 🌱 Atualmente estudando Front-end! 🧑🏻‍💻
 - ⚡ Fato engraçado: Sou ótimo em correr atrás de galinha! 🐔
 - 😄 Pronomes: Ele/Dele
 - 🤓 Minhas alegrias 👇🏻
