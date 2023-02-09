@@ -1,9 +1,9 @@
 ## Hello, everyone! 🖖🏻
 
-- 🌱 I’m currently learning Front-end! 🧑🏻‍💻
-- ⚡ Fun fact: Love for creating ❤️
-- 😄 Pronouns: Him/His
-- 🤓 Some of my studies 👇🏻
+- 🌱 Atualmente estou estudando Front-end! 🧑🏻‍💻
+- ⚡ Fato curioso: Sou ótimo em correr atrás de galinha! 🐔
+- 😄 Pronomes: Ele/Dele
+- 🤓 Minhas alegrias 👇🏻
 
 
 
