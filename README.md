@@ -1,6 +1,6 @@
 ## Hello, everyone! 🖖🏻
 
-- 🌱 Atualmente estudando Front-end! 🧑🏻‍💻
+- 🌱 Aluno da Cubos Academy estudando Back-end! 🧑🏻‍💻
 - 😄 Pronomes: Ele/Dele
 - 🤓 Minhas alegrias 👇🏻
 
