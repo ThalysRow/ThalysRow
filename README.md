@@ -29,7 +29,6 @@
   <a href="https://www.instagram.com/thayrow/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/thalys-row-8454a3246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:thalysrogue@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media2.giphy.com/media/yntUbrp9bFhnTyRRTw/giphy.gif?cid=790b7611b93e3c649730c4f2d02929c24235b267788b960a&rid=giphy.gif&ct=g">
 </div>
 
 
