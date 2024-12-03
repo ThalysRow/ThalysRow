@@ -19,7 +19,7 @@
 <div align="center" style="display: inline_block"><br>
    <p align="center">
       <a href="#">
-         <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,angular,nextjs,jest,nodejs,express,nestjs,java,spring,mongodb,postgres,mysql,docker,aws&perline=9" />
+         <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,tailwind,nextjs,jest,nodejs,express,nestjs,java,spring,mongodb,postgres,mysql,docker&perline=9" />
       </a>
    </p>
 </div>
