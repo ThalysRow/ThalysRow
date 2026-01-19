@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFAsize=35&center=true&vCenter=true&width=1000&lines=Hello,+everyone!+👋;+My+name+is+Thalys+Row!;I'm+a+Dev+Full-stack.🦆)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThalysRow&bg_color=0d1117&color=00BFFF&line=00BFFF&point=00BFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThalysRow&bg_color=0d1117&color=00BFFF&line=00BFFF&point=00BFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## My GitHub
 <div align="center">
-    <img height="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ThalysRow&theme=black-ice&hide_border=true)](https://git.io/streak-stats"/>
+   <!-- <img height="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ThalysRow&theme=black-ice&hide_border=true)](https://git.io/streak-stats"/> -->
     <img height="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalysRow&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
