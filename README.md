@@ -7,12 +7,12 @@
 ## My GitHub
 <div align="center">
     <img height="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ThalysRow&theme=black-ice&hide_border=true)](https://git.io/streak-stats"/>
-<!--    <img height="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalysRow&layout=compact&langs_count=7&theme=dark"/>  -->
+     <img height="41%" src="https://github-stats-extended.vercel.app/api/top-langs?username=ThalysRow&layout=compact&langs_count=4&theme=github_dark"/>
 </div>
 
 
 <div align="center">
-<a href="https://www.linkedin.com/in/thalys-row" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/thalys-row" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
  </div>
 
 ## Skills
